@@ -1,0 +1,156 @@
+{
+  "title": "Fake Gallery for React Native",
+  "description": "A fake gallery for React Native",
+  "gallery": [
+    {
+      "id": 1,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 4,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 5,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 6,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 7,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 8,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 9,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 10,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 11,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 12,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 13,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 14,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 15,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 16,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 17,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 18,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 19,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 20,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 21,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 22,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 23,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 24,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 25,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 26,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 27,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 28,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 29,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    },
+    {
+      "id": 30,
+      "title": "Image 1",
+      "url": "https://picsum.photos/200"
+    }
+  ]
+}
